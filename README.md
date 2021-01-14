@@ -9,7 +9,7 @@ _This is a detailed description of your application. Give as much detail as need
 ## Setup/Installation Requirements
 
 * _Add setup/Installation steps._
-*_View on GitHub Page._
+* _View on GitHub Page._
 
 ## License
 
