@@ -8,8 +8,9 @@ _This is a detailed description of your application. Give as much detail as need
 
 ## Setup/Installation Requirements
 
-* _Add setup/Installation steps._
-* _View on GitHub Page._
+* _Clone this repository._
+* _Navigate to the top level of the directory._
+* _Open index.html in your browser. Alternatively, view on this GitHub Page._
 
 ## License
 
