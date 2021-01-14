@@ -4,7 +4,7 @@
 
 ## Description
 
-_This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have._
+_This webpage is dedicated to ..._
 
 ## Setup/Installation Requirements
 
